@@ -35,7 +35,7 @@ class RunOption {
   /**
     * If set, perform type analysis.
     */
-  var types = false
+  var types = true
 
   /**
     * If set, perform control-flow analysis.
